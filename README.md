@@ -41,3 +41,79 @@ https://github.com/Mahesh902167/maheshbhong08/blob/main/Sale%20Dashbord%20Power%
 - Improved dashboard UI using themes and proper alignment  
 - Removed unnecessary columns to optimize performance  
 - Fixed filter and slicer settings for proper interaction
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Excel seals dashbord -
+# 📊 Vrinda Store Annual Report Dashboard (2025)
+
+## 📌 Project Description
+
+This project presents an interactive sales dashboard created using Microsoft Excel. It analyzes the annual performance of Vrinda Store for the year 2025.
+
+The dashboard helps in understanding sales trends, customer behavior, order distribution, and state-wise performance.
+
+---
+
+## ❗ Problem Statement
+
+Businesses often struggle to understand:
+
+* Which channel generates the most orders
+* Sales performance over months
+* Customer segmentation (men vs women, age groups)
+* Order status (delivered, returned, cancelled)
+* Top performing states
+
+Raw data is difficult to analyze and does not provide clear insights.
+
+---
+
+## 💡 Solution
+
+This dashboard provides:
+
+* 📈 Monthly sales vs orders analysis
+* 🛒 Channel-wise order distribution (Amazon, Flipkart, etc.)
+* 👨‍👩‍👧 Gender-based sales insights
+* 📦 Order status breakdown
+* 🌍 Top 5 states by sales
+* 🎯 Age group vs gender analysis
+
+All insights are visualized using charts and slicers for better decision-making.
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts (Pie, Bar, Line)
+* Slicers
+
+---
+
+## 📊 Key Insights
+
+* Women contribute more to total sales (64%)
+* Amazon is the top-performing channel
+* Most orders are successfully delivered (92%)
+* Karnataka and Maharashtra are top states
+
+---
+
+## 🚀 Conclusion
+
+This dashboard helps businesses quickly analyze their performance and make data-driven decisions without going through complex raw data.
+
+---
+
+## 📷 Dashboard Preview
+https://github.com/Mahesh902167/maheshbhong08/blob/main/Sale%20Dashbord%20Excel.png
+
+
+
+
+
+
+
+  
