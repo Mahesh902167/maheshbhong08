@@ -112,6 +112,26 @@ https://github.com/Mahesh902167/maheshbhong08/blob/main/Sale%20Dashbord%20Excel.
 
 
 
+## 🎓 Certifications
+
+### 📊 Data Analyst Certification
+
+* Successfully completed a Data Analytics certification program
+* Gained knowledge in data cleaning, data visualization, and data analysis
+* Worked on tools like Excel, Power BI, and basic SQL
+* Developed real-world projects and dashboards
+
+🔗 https://github.com/Mahesh902167/maheshbhong08/blob/main/Data%20Analyst%20Certificate.jpeg
+---
+
+### 📈 Excel Certification
+
+* Completed Microsoft Excel certification
+* Learned advanced Excel concepts like Pivot Tables, Charts, and Data Analysis
+* Built interactive dashboards using Excel
+* Improved data handling and reporting skills
+
+🔗 https://github.com/Mahesh902167/maheshbhong08/blob/main/excel%20Certificate.jpeg
 
 
 
