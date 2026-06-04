@@ -107,6 +107,11 @@ This dashboard helps businesses quickly analyze their performance and make data-
 
 ---
 
+ 📷 Dashboard Preview
+https://github.com/Mahesh902167/maheshbhong08/blob/main/Sale%20Dashbord%20Excel.png
+
+
+
 
 
 
